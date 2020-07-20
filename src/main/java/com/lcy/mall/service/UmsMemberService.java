@@ -1,6 +1,6 @@
 package com.lcy.mall.service;
 
-import com.lcy.mall.common.CommonResult;
+import com.lcy.mall.common.api.CommonResult;
 
 /**
  * @description:会员管理service

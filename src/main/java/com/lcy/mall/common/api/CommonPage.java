@@ -1,4 +1,4 @@
-package com.lcy.mall.common;
+package com.lcy.mall.common.api;
 
 import com.github.pagehelper.PageInfo;
 

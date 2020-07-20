@@ -1,6 +1,6 @@
 package com.lcy.mall.controller;
 
-import com.lcy.mall.common.CommonResult;
+import com.lcy.mall.common.api.CommonResult;
 import com.lcy.mall.service.UmsMemberService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

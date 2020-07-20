@@ -1,4 +1,4 @@
-package com.lcy.mall.common;
+package com.lcy.mall.common.api;
 
 /**
  * @description:封装API的错误码

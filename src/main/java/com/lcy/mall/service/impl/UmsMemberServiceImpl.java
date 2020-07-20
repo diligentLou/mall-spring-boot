@@ -1,7 +1,6 @@
 package com.lcy.mall.service.impl;
 
-import com.github.pagehelper.util.StringUtil;
-import com.lcy.mall.common.CommonResult;
+import com.lcy.mall.common.api.CommonResult;
 import com.lcy.mall.service.RedisService;
 import com.lcy.mall.service.UmsMemberService;
 import org.springframework.beans.factory.annotation.Autowired;

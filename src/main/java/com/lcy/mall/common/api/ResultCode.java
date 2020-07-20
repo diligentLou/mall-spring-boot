@@ -1,4 +1,4 @@
-package com.lcy.mall.common;
+package com.lcy.mall.common.api;
 
 /**
  * @description:枚举了一些常用API操作码
